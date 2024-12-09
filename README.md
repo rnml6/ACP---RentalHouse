@@ -44,7 +44,7 @@ The **Rental House Management System** is an application that allows users, espe
 
 ## Usage
 
-- **Admin Login**: Click on the **admin** button to access the admin features. Admins can manage room assignments through the dashboard.
+- **Admin Login**: Click on the **admin** button to access the admin features. Admins can manage room assignments through the **edit** page.
 - **User Login**: Users can log in with their username and password to view their room and payment details.
 
 ## Note
