@@ -49,4 +49,4 @@ The **Rental House Management System** is an application that allows users, espe
 
 ## Note
 
-You can change the database connection settings in the code to match your local MySQL database credentials.
+- You can change the database connection settings in the code to match your local MySQL database credentials.
